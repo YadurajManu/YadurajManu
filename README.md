@@ -20,7 +20,7 @@
 ### 📊 **GitHub Stats**
 <!-- Dynamic GitHub Stats with Themes -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YadurajManu&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=merko" alt="Streak Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
