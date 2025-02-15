@@ -30,7 +30,7 @@
 ### 🚀 **Featured Repositories**
 <!-- Animated Repo Cards -->
 <div align="center">
-  <a href="https://github.com/[YOUR_USERNAME]/[REPO_1]">
+  <a href="https://github.com/YadurajManu/[REPO_1]">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[REPO_1]&theme=merko" />
   </a>
   <a href="https://github.com/[YOUR_USERNAME]/[REPO_2]">
