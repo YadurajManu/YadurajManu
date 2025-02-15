@@ -81,7 +81,7 @@
   <a href="[YOUR_APP_STORE_LINK]">
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&labelColor=000000">
   </a>
-  <a href="[YOUR_WEB_PORTFOLIO]">
+  <a href="yaduraj.me">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
