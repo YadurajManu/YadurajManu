@@ -35,12 +35,7 @@ Here's a glimpse of the technologies I work with:
   <!-- Using a generic line for now, will try to find a better one if this doesn't work well -->
   <img src="https://media.giphy.com/media/dZ3nw7l2qP79e/giphy.gif" width="350px" alt="Line separator animation">
 </p>
-
-## 📊 My GitHub Journey
-Here's a look at my activity and achievements on GitHub:
-![](https://github-readme-stats.vercel.app/api?username=YadurajManu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YadurajManu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YadurajManu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+lse&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YadurajManu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
