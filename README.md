@@ -22,9 +22,6 @@ Here's a glimpse of the technologies I work with:
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YadurajManu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaduraj.doc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaduraj-singh-a3479333a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadurajsingham@gmail.com)
 
