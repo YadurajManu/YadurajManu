@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yaduraj!
 A passionate iOS and Web Developer with a knack for creating engaging and user-friendly digital experiences. I love exploring new technologies and bringing ideas to life. Always eager to take on new challenges and contribute my skills to innovative projects!
-
+https://api.githubtrends.io/user/svg/YadurajManu/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark
 ## 💻 Tech Stack
 
 Here's a glimpse of the technologies I work with:
