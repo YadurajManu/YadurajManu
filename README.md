@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaduraj Singh</h1>
+<h1 align="center">Hi 👋, I'm Yaduraj</h1>
 <h3 align="center">Crafting smart, user-centric apps | Passionate about solving real-world problems with tech 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadurajmanu&label=Profile%20views&color=0e75b6&style=flat" alt="yadurajmanu" /> </p>
