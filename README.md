@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What’s up?<br>I’m Yaduraj . I build sleek apps, explore AI, and love turning wild ideas into real things. Always learning, always creating. Let’s connect!</h1>
+<h1 align="center">Hey 👋 What’s up?<br>I’m Yaduraj . I build what your mama dreams. So Let’s connect!</h1>
 
 ###
 
