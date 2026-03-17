@@ -38,3 +38,8 @@
 </picture>
 
 ###
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <br/>
+  <b>I build. You can verify. The repos are public. Unlike those LinkedIn guys' code.</b>
+</div>
