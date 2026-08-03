@@ -1,0 +1,36 @@
+# Renders the contribution history as an isometric 3D scene, committed into
+# this repo under profile-3d-contrib/. Self-generated for the same reason as
+# the snake and the metrics panels — no third-party host to run out of quota.
+name: generate 3d contrib
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render isometric contribution scene
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit generated scenes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --all profile-3d-contrib
+          git diff --staged --quiet && echo "nothing to commit" && exit 0
+          git commit -m "chore: regenerate 3d contribution graph"
+          git push
