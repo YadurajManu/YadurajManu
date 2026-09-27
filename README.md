@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="92" alt="Animated developer at a keyboard" />
+  <img src="assets/yaduraj-portrait.jpg" width="150" alt="Yaduraj Singh smiling in a red sweater" />
   <h1>Yaduraj Singh</h1>
   <p><strong>Software engineer · applied AI · systems that leave localhost</strong></p>
   <p>Dehradun / Greater Noida, India</p>
@@ -9,6 +9,7 @@
     <a href="https://www.linkedin.com/in/yadurajenc">LinkedIn</a> ·
     <a href="mailto:yadurajsingham@gmail.com">yadurajsingham@gmail.com</a>
   </p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="68" alt="Typing cat sticker" />
 </div>
 
 ```text
@@ -19,6 +20,10 @@ approach   prototype → measure → ship → keep it running
 location   India · open to remote collaboration
 
 I like the part after “it works on my machine.”
+
+ /\_/\
+( o.o )  unofficial QA department
+ > ^ <
 ```
 
 ## `featured/` — three things worth opening first
