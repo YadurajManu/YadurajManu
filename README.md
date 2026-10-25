@@ -107,5 +107,4 @@ mobile     SwiftUI · Flutter
     <a href="https://instagram.com/yaduraj.doc">Instagram</a>
   </p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="96" alt="Small coding sticker" />
-  <p><sub>README deploy: successful. Production bugs: please file an issue.</sub></p>
 </div>
